@@ -1,0 +1,25 @@
+{
+  "name": "github-readme",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Hi, I'm Abhinay 👋</h1>\r <p align=\"center\">\r   <b>Self-taught Developer • Creative Thinker • Tech Explorer</b><br>\r   Passionate about building smart solutions with code & stories.\r </p>",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinaytharu/abhinaytharu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinaytharu/abhinaytharu/issues"
+  },
+  "homepage": "https://github.com/abhinaytharu/abhinaytharu#readme",
+  "dependencies": {
+    "@octokit/graphql": "^9.0.3",
+    "dotenv": "^17.2.3"
+  }
+}
