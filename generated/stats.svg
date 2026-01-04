@@ -1,0 +1,42 @@
+
+    <svg width="450" height="180" viewBox="0 0 450 180" xmlns="http://www.w3.org/2000/svg">
+      <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E4E2E2; }
+    .stat { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #949494; }
+    .stat-bold { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E4E2E2; }
+    .icon { fill: #58A6FF; }
+    .card-bg { fill: #161B22; stroke: #30363D; stroke-width: 1px; rx: 10px; }
+
+    @media (prefers-color-scheme: light) {
+      .header { fill: #24292f; }
+      .stat { fill: #57606a; }
+      .stat-bold { fill: #24292f; }
+      .icon { fill: #0969da; }
+      .card-bg { fill: #ffffff; stroke: #e1e4e8; }
+    }
+  </style>
+      <rect x="1" y="1" width="448" height="178" class="card-bg"/>
+      
+      <text x="25" y="35" class="header">Abhinay's GitHub Stats</text>
+
+      <g transform="translate(25, 65)">
+        <svg class="icon" x="0" y="0" width="16" height="16" viewBox="0 0 16 16"><path d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"/></svg>
+        <text x="25" y="12" class="stat">Total Stars:</text>
+        <text x="130" y="12" class="stat-bold">0</text>
+      </g>
+
+      <g transform="translate(25, 95)">
+        <svg class="icon" x="0" y="0" width="16" height="16" viewBox="0 0 16 16"><path d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/></svg>
+        <text x="25" y="12" class="stat">Total Commits:</text>
+        <text x="130" y="12" class="stat-bold">40</text>
+      </g>
+
+      <g transform="translate(25, 125)">
+        <svg class="icon" x="0" y="0" width="16" height="16" viewBox="0 0 16 16"><path d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></svg>
+        <text x="25" y="12" class="stat">Repositories:</text>
+        <text x="130" y="12" class="stat-bold">10</text>
+      </g>
+      
+      <!-- Right Side: Languages ? (Maybe separate card or compact right side) -->
+    </svg>
+  

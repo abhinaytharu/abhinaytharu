@@ -1,0 +1,48 @@
+
+    <svg width="350" height="180" viewBox="0 0 350 180" xmlns="http://www.w3.org/2000/svg">
+      <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E4E2E2; }
+    .lang-name { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #E4E2E2; }
+    .card-bg { fill: #161B22; stroke: #30363D; stroke-width: 1px; rx: 10px; }
+
+    @media (prefers-color-scheme: light) {
+      .header { fill: #24292f; }
+      .lang-name { fill: #24292f; }
+      .card-bg { fill: #ffffff; stroke: #e1e4e8; }
+    }
+  </style>
+      <rect x="1" y="1" width="348" height="178" class="card-bg"/>
+      <text x="25" y="35" class="header">Most Used Languages</text>
+      
+      <g transform="translate(25, 65)">
+        <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+        <text x="20" y="10" class="lang-name">JavaScript (52.8%)</text>
+      </g>
+    
+      <g transform="translate(25, 90)">
+        <circle cx="5" cy="6" r="5" fill="#e34c26" />
+        <text x="20" y="10" class="lang-name">HTML (22.6%)</text>
+      </g>
+    
+      <g transform="translate(25, 115)">
+        <circle cx="5" cy="6" r="5" fill="#663399" />
+        <text x="20" y="10" class="lang-name">CSS (16.2%)</text>
+      </g>
+    
+      <g transform="translate(25, 140)">
+        <circle cx="5" cy="6" r="5" fill="#3572A5" />
+        <text x="20" y="10" class="lang-name">Python (4.7%)</text>
+      </g>
+    
+      <g transform="translate(25, 165)">
+        <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+        <text x="20" y="10" class="lang-name">C++ (3.4%)</text>
+      </g>
+    
+      <g transform="translate(25, 190)">
+        <circle cx="5" cy="6" r="5" fill="#012456" />
+        <text x="20" y="10" class="lang-name">PowerShell (0.2%)</text>
+      </g>
+    
+    </svg>
+  
