@@ -16,17 +16,17 @@
       
       <g transform="translate(25, 65)">
         <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-        <text x="20" y="10" class="lang-name">JavaScript (52.8%)</text>
+        <text x="20" y="10" class="lang-name">JavaScript (53.2%)</text>
       </g>
     
       <g transform="translate(25, 90)">
         <circle cx="5" cy="6" r="5" fill="#e34c26" />
-        <text x="20" y="10" class="lang-name">HTML (22.6%)</text>
+        <text x="20" y="10" class="lang-name">HTML (22.4%)</text>
       </g>
     
       <g transform="translate(25, 115)">
         <circle cx="5" cy="6" r="5" fill="#663399" />
-        <text x="20" y="10" class="lang-name">CSS (16.2%)</text>
+        <text x="20" y="10" class="lang-name">CSS (15.8%)</text>
       </g>
     
       <g transform="translate(25, 140)">
