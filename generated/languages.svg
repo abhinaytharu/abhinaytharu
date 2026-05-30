@@ -16,32 +16,32 @@
       
       <g transform="translate(25, 65)">
         <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-        <text x="20" y="10" class="lang-name">JavaScript (50.6%)</text>
+        <text x="20" y="10" class="lang-name">JavaScript (39.3%)</text>
       </g>
     
       <g transform="translate(25, 90)">
         <circle cx="5" cy="6" r="5" fill="#e34c26" />
-        <text x="20" y="10" class="lang-name">HTML (25.3%)</text>
+        <text x="20" y="10" class="lang-name">HTML (19.9%)</text>
       </g>
     
       <g transform="translate(25, 115)">
-        <circle cx="5" cy="6" r="5" fill="#663399" />
-        <text x="20" y="10" class="lang-name">CSS (15.5%)</text>
+        <circle cx="5" cy="6" r="5" fill="#00B4AB" />
+        <text x="20" y="10" class="lang-name">Dart (14.5%)</text>
       </g>
     
       <g transform="translate(25, 140)">
-        <circle cx="5" cy="6" r="5" fill="#3572A5" />
-        <text x="20" y="10" class="lang-name">Python (5.1%)</text>
+        <circle cx="5" cy="6" r="5" fill="#663399" />
+        <text x="20" y="10" class="lang-name">CSS (12.1%)</text>
       </g>
     
       <g transform="translate(25, 165)">
         <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-        <text x="20" y="10" class="lang-name">C++ (3.1%)</text>
+        <text x="20" y="10" class="lang-name">C++ (6.2%)</text>
       </g>
     
       <g transform="translate(25, 190)">
-        <circle cx="5" cy="6" r="5" fill="#012456" />
-        <text x="20" y="10" class="lang-name">PowerShell (0.2%)</text>
+        <circle cx="5" cy="6" r="5" fill="#3572A5" />
+        <text x="20" y="10" class="lang-name">Python (4.0%)</text>
       </g>
     
     </svg>
