@@ -15,33 +15,33 @@
       <text x="25" y="35" class="header">Most Used Languages</text>
       
       <g transform="translate(25, 65)">
-        <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-        <text x="20" y="10" class="lang-name">JavaScript (41.6%)</text>
+        <circle cx="5" cy="6" r="5" fill="#dea584" />
+        <text x="20" y="10" class="lang-name">Rust (64.8%)</text>
       </g>
     
       <g transform="translate(25, 90)">
-        <circle cx="5" cy="6" r="5" fill="#e34c26" />
-        <text x="20" y="10" class="lang-name">HTML (15.9%)</text>
+        <circle cx="5" cy="6" r="5" fill="#3178c6" />
+        <text x="20" y="10" class="lang-name">TypeScript (16.8%)</text>
       </g>
     
       <g transform="translate(25, 115)">
-        <circle cx="5" cy="6" r="5" fill="#00B4AB" />
-        <text x="20" y="10" class="lang-name">Dart (15.3%)</text>
+        <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+        <text x="20" y="10" class="lang-name">JavaScript (8.0%)</text>
       </g>
     
       <g transform="translate(25, 140)">
-        <circle cx="5" cy="6" r="5" fill="#663399" />
-        <text x="20" y="10" class="lang-name">CSS (12.2%)</text>
+        <circle cx="5" cy="6" r="5" fill="#e34c26" />
+        <text x="20" y="10" class="lang-name">HTML (2.5%)</text>
       </g>
     
       <g transform="translate(25, 165)">
-        <circle cx="5" cy="6" r="5" fill="#f34b7d" />
-        <text x="20" y="10" class="lang-name">C++ (6.6%)</text>
+        <circle cx="5" cy="6" r="5" fill="#00B4AB" />
+        <text x="20" y="10" class="lang-name">Dart (2.4%)</text>
       </g>
     
       <g transform="translate(25, 190)">
-        <circle cx="5" cy="6" r="5" fill="#3572A5" />
-        <text x="20" y="10" class="lang-name">Python (4.2%)</text>
+        <circle cx="5" cy="6" r="5" fill="#663399" />
+        <text x="20" y="10" class="lang-name">CSS (2.0%)</text>
       </g>
     
     </svg>
