@@ -16,32 +16,32 @@
       
       <g transform="translate(25, 65)">
         <circle cx="5" cy="6" r="5" fill="#dea584" />
-        <text x="20" y="10" class="lang-name">Rust (64.8%)</text>
+        <text x="20" y="10" class="lang-name">Rust (62.9%)</text>
       </g>
     
       <g transform="translate(25, 90)">
         <circle cx="5" cy="6" r="5" fill="#3178c6" />
-        <text x="20" y="10" class="lang-name">TypeScript (16.8%)</text>
+        <text x="20" y="10" class="lang-name">TypeScript (16.3%)</text>
       </g>
     
       <g transform="translate(25, 115)">
         <circle cx="5" cy="6" r="5" fill="#f1e05a" />
-        <text x="20" y="10" class="lang-name">JavaScript (8.0%)</text>
+        <text x="20" y="10" class="lang-name">JavaScript (9.7%)</text>
       </g>
     
       <g transform="translate(25, 140)">
         <circle cx="5" cy="6" r="5" fill="#e34c26" />
-        <text x="20" y="10" class="lang-name">HTML (2.5%)</text>
+        <text x="20" y="10" class="lang-name">HTML (3.0%)</text>
       </g>
     
       <g transform="translate(25, 165)">
-        <circle cx="5" cy="6" r="5" fill="#00B4AB" />
-        <text x="20" y="10" class="lang-name">Dart (2.4%)</text>
+        <circle cx="5" cy="6" r="5" fill="#663399" />
+        <text x="20" y="10" class="lang-name">CSS (2.5%)</text>
       </g>
     
       <g transform="translate(25, 190)">
-        <circle cx="5" cy="6" r="5" fill="#663399" />
-        <text x="20" y="10" class="lang-name">CSS (2.0%)</text>
+        <circle cx="5" cy="6" r="5" fill="#00B4AB" />
+        <text x="20" y="10" class="lang-name">Dart (2.3%)</text>
       </g>
     
     </svg>
